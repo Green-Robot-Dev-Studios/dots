@@ -1,0 +1,26 @@
+[icons]
+# font awesome
+chromium = ""
+firefox = ""
+Termite = ""
+lightcord = ""
+baobab = ""
+code-oss = ""
+Navigator = ""
+gnome-calculator = ""
+cctv-viewer = ""
+"org.gnome.Nautilus" = ""
+"Tgimp-2.10" = ""
+obs = ""
+
+[aliases]
+#no text
+
+[general]
+separator = "  "
+default_icon = ""
+
+[options]
+remove_duplicates = true
+use_instance = true
+no_names = true
